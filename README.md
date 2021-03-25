@@ -27,9 +27,9 @@ The following **optional** features are implemented:
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
-![X] User Wins/Complete Pattern: https://cdn.glitch.com/3a7db4a7-bc63-400f-99ed-73b91ba2e42e%2FWonGame.gif?v=1616649202588
-![X] User Loses/Incorrect Guess: https://cdn.glitch.com/3a7db4a7-bc63-400f-99ed-73b91ba2e42e%2FLostGame.gif?v=1616649208084
-![X] Demonstration of Start/Stop Switch: https://cdn.glitch.com/3a7db4a7-bc63-400f-99ed-73b91ba2e42e%2FButtons.gif?v=1616649212476
+* [X] User Wins/Complete Pattern: https://cdn.glitch.com/3a7db4a7-bc63-400f-99ed-73b91ba2e42e%2FWonGame.gif?v=1616649202588
+* [X] User Loses/Incorrect Guess: https://cdn.glitch.com/3a7db4a7-bc63-400f-99ed-73b91ba2e42e%2FLostGame.gif?v=1616649208084
+* [X] Demonstration of Start/Stop Switch: https://cdn.glitch.com/3a7db4a7-bc63-400f-99ed-73b91ba2e42e%2FButtons.gif?v=1616649212476
 
 ## Reflection Questions
 1. If you used any outside resources to help complete your submission (websites, books, people, etc) list them here. 
